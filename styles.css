@@ -10,6 +10,7 @@ img{
 	flex-flow:column wrap;
 	justify-content:center;
 	align-items:center;
+	box-shadow: 2px 5px 10px grey;
 }
 button{
 	width:130px;
@@ -18,6 +19,7 @@ button{
 	border:none;
 	border-radius:10px;
 	font-size:20px;
+	
 }
 p{
 	font-size:20px;
