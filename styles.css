@@ -6,7 +6,6 @@ img{
 	width:400px;
 	height:600px;
 	background-color:#e7e7e7;
-	border:2px solid red;
 	display:flex;
 	flex-flow:column wrap;
 	justify-content:center;
