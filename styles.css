@@ -1,1 +1,26 @@
-/*  your css code here. If applicable */
+img{
+	width:300px;
+	height:200px;
+}
+.container{
+	width:400px;
+	height:600px;
+	background-color:#e7e7e7;
+	border:2px solid red;
+	display:flex;
+	flex-flow:column wrap;
+	justify-content:center;
+	align-items:center;
+}
+button{
+	width:130px;
+	height:60px;
+	background-color:red;
+	border:none;
+	border-radius:10px
+	font-size:20px;
+}
+p{
+	font-size:20px;
+	font-weight:600;
+}
